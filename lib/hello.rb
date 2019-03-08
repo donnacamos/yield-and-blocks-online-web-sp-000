@@ -9,5 +9,5 @@ end
 
 
 # call your method here!
-array 
+hello_t(array)  
 end 
